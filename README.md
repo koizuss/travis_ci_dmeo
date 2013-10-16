@@ -1,2 +1,4 @@
-Travis CIのサンプルです。
+Travis CIのkoizuss用サンプルです。
+
+
 
